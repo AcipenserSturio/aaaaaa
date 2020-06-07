@@ -1,1 +1,1 @@
-encode.exe stuff.png
+encode.exe in
