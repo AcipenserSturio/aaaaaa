@@ -1,0 +1,1 @@
+python ascii_to_bin.py transformed.txt
