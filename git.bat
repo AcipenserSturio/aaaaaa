@@ -1,4 +1,4 @@
-cd temp
+cd temp/vol
 git init
 git add .
 git remote add origin https://github.com/AcipenserSturio/test_repo.git
